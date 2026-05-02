@@ -10,7 +10,8 @@ Projects:
 - CI/CD Deployment Project
 - Role Based Authentication System
 
-Currently exploring DevOps & System Design
+Currently exploring DevOps
 
 LinkedIn: www.linkedin.com/in/vinaydasari-s8639v939
+
 Email: dasariv211@gmail.com
