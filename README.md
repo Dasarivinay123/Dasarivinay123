@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Dasari vinay
-- 🌱 I’m currently completed my full stack java course
-- 💞️ I’m looking for job
-- 📫 How to reach me ...
+Hi, I'm Vinay Dasari
 
-<!---
-Dasarivinay123/Dasarivinay123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Java Backend Developer with experience in:
+
+Java | Spring Boot | REST APIs | SQL | React JS  
+Docker | Jenkins | AWS EC2 | JWT Security
+
+Projects:
+- Employee Management System
+- CI/CD Deployment Project
+- Role Based Authentication System
+
+Currently exploring DevOps & System Design
+
+LinkedIn: www.linkedin.com/in/vinaydasari-s8639v939
+Email: dasariv211@gmail.com
