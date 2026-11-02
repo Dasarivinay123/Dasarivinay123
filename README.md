@@ -8,29 +8,12 @@ I enjoy working with Java technologies and exploring modern DevOps practices thr
 
 ### 🛠️ Technical Skills
 
-**Programming & Backend**
-- Java
-- Spring Boot
-- Spring MVC
-- REST APIs
-- SQL
-- React
-
-**Cloud & DevOps**
-- AWS (EC2, VPC, IAM, S3, EKS, ALB, CloudFront)
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- GitHub Actions
-- Argo CD
-- Helm
-
-**Tools & Technologies**
-- Git & GitHub
-- Linux
-- Maven
-- SonarQube
+| Category | Technologies |
+|:---|:---|
+| **Programming & Backend** | Java, Spring Boot, Spring MVC, REST APIs, SQL, React |
+| **Cloud & DevOps** | AWS (EC2, VPC, IAM, S3, EKS, ALB, CloudFront), Docker, Kubernetes, Terraform |
+| **CI/CD & GitOps** | Jenkins, GitHub Actions, Argo CD, Helm |
+| **Tools & Platforms** | Git, GitHub, Linux, Maven, SonarQube |
 
 ### 🚀 Featured Projects
 
@@ -42,11 +25,7 @@ I enjoy working with Java technologies and exploring modern DevOps practices thr
 
 ### 📖 Currently Learning
 
-- Advanced Kubernetes
-- GitHub Actions
-- DevSecOps
-- AWS Cloud Infrastructure
-- CI/CD Automation
+Advanced Kubernetes | GitHub Actions | DevSecOps | AWS Cloud Infrastructure | CI/CD Automation
 
 ### 🤝 Connect With Me
 
