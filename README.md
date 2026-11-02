@@ -1,17 +1,58 @@
-Hi, I'm Vinay Dasari
+# Hi 👋, I'm Vinay Dasari
 
-Java Backend Developer with experience in:
+### Java Backend Developer | DevOps & Cloud Enthusiast
 
-Java | Spring Boot | REST APIs | SQL | React JS  
-Docker | Jenkins | AWS EC2 | JWT Security
+I am a Software Engineer interested in building backend applications, automating infrastructure, and implementing cloud-native solutions.
 
-Projects:
-- Employee Management System
-- CI/CD Deployment Project
-- Role Based Authentication System
+I enjoy working with Java technologies and exploring modern DevOps practices through hands-on projects.
 
-Currently exploring DevOps
+### 🛠️ Technical Skills
 
-LinkedIn: www.linkedin.com/in/vinaydasari-s8639v939
+**Programming & Backend**
+- Java
+- Spring Boot
+- Spring MVC
+- REST APIs
+- SQL
+- React
 
-Email: dasariv211@gmail.com
+**Cloud & DevOps**
+- AWS (EC2, VPC, IAM, S3, EKS, ALB, CloudFront)
+- Docker
+- Kubernetes
+- Terraform
+- Jenkins
+- GitHub Actions
+- Argo CD
+- Helm
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux
+- Maven
+- SonarQube
+
+### 🚀 Featured Projects
+
+- AWS Infrastructure Provisioning using Terraform
+- Kubernetes-based Microservices Deployment
+- GitOps Continuous Delivery using Argo CD
+- CI/CD Pipeline Automation using Jenkins and GitHub Actions
+- Docker-based Application Deployment
+
+### 📖 Currently Learning
+
+- Advanced Kubernetes
+- GitHub Actions
+- DevSecOps
+- AWS Cloud Infrastructure
+- CI/CD Automation
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Vinay Dasari](https://www.linkedin.com/in/vinaydasari-s8639v939/)
+- Email: dasari211@gmail.com
+
+---
+
+⭐ Always learning, building, and improving my engineering skills.
