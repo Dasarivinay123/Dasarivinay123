@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinay Dasari
 
-### Java Backend Developer | DevOps & Cloud Enthusiast
+### Java Backend Developer | DevOps & Cloud Engineer
 
 I am a Software Engineer interested in building backend applications, automating infrastructure, and implementing cloud-native solutions.
 
